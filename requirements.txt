@@ -1,0 +1,6 @@
+mediapipe
+opencv-python
+PyQt6
+PyAutoGUI
+numpy
+q
