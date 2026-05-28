@@ -9,6 +9,11 @@ Pneuma Reach is an experimental, bare-hand gesture control interface for Windows
 - **Minimalist HUD:** Custom PyQt6 and OpenCV overlay that applies a frosted glassmorphism effect, hiding unnecessary skeletal data to focus strictly on user immersion and accuracy.
 - **EMA Smoothing:** Applies Exponential Moving Average filtering to eliminate hand jitter and provide buttery-smooth mouse control.
 
+## Prerequisites
+
+- **Python 3.12** (Highly recommended to prevent compatibility issues with MediaPipe Tasks API and PyQt6).
+- A working webcam.
+
 ## Installation
 
 1. Clone the repository:
